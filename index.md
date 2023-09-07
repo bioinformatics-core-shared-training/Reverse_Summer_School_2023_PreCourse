@@ -16,8 +16,6 @@ There will be two practical bioinformatics workshops delivered at the 2023 Summe
     * Thursday 21st at 1:30-5:30 PM
     * Friday 22nd at 1:00-5:00 PM
 
-<div>
-
 ## **Essential Actions** 
 
 For both workshops you will need to bring a laptop with all the necessary
@@ -30,9 +28,8 @@ Before attending the workshops you must:
 2. [Install the necessary R packages for the RNAseq workshop, if you are attending]()
 3. [Download the necessary data for the workshops]()
 
-This documents linked above contain instructions for carrying out each of tasks.
+The documents linked above contain instructions for carrying out each of tasks.
 
 If you have any difficulty installing any of the software then please contact
 XXXXXXXXXXXXX for help.
 
-</div>
