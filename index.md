@@ -16,7 +16,10 @@ There will be two practical bioinformatics workshops delivered at the 2023 Summe
     * Thursday 21st at 1:30-5:30 PM
     * Friday 22nd at 1:00-5:00 PM
 
-## **Essential Actions** 
+## **Essential Actions before the start of the Summer School** 
+
+
+**Please attend to this as soon as possible in order to give yourself time should you encounter any problems**
 
 For both workshops you will need to bring a laptop with all the necessary
 software and data files for the workshop. 
