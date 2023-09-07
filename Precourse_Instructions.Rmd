@@ -1,6 +1,7 @@
 ---
 title: |
     Cambridge Makerere Summer School
+    ![](./images/Logos.png){width=60%}
 subtitle: "Essential preparations prior to attending Bioinformatics workshop"
 author: "Ashley Sawle"
 date: "6th September 2023"
@@ -12,7 +13,6 @@ output:
     toc_depth: 2
 ---
 
-![](./images/Logos.png){width=100%}
 
 # Introduction  {.unlisted .unnumbered}
 
@@ -34,7 +34,7 @@ There will be two practical bioinformatics workshops delivered at the 2023 Summe
 For both workshops you will need to bring a laptop with all the necessary
 software and data files for the workshop. 
 
-Before attending the workshops you will need to:
+Before attending the workshops you must:
 
 1. Install **R** and **RStudio**
 2. Install the `tidyverse` R package (necessary for both workshops)
