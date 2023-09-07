@@ -1,5 +1,6 @@
 ---
-title: "Cambridge Makerere Summer School"
+title: |
+    Cambridge Makerere Summer School
 subtitle: "Essential preparations prior to attending Bioinformatics workshop"
 author: "Ashley Sawle"
 date: "6th September 2023"
@@ -10,6 +11,8 @@ output:
     toc: yes
     toc_depth: 2
 ---
+
+![](./images/Logos.png){width=100%}
 
 # Introduction  {.unlisted .unnumbered}
 
@@ -277,7 +280,8 @@ If a package has not installed correctly you will get a message similar to this:
 # Downloading the Data
 
 We will need various data files for the workshops. These can all be downloaded
-in a single zip file from:
+in a single zip file from 
+[here](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2023_PreCourse/Bioinformatics_workshop_data.zip).
 
 
 Please download this file and unzip in a suitable location on your laptop. We
