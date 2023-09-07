@@ -1,0 +1,12 @@
+.box {
+  padding: 1em 1em 1em 3em;
+  /* specify the image properties */
+    background-repeat: no-repeat;
+  background-position: 0.5em 1em;
+  background-size: 2em;
+  margin: 10px;
+  color: black;
+  background-color: #fef9f1;
+    box-shadow: 0 0 3px 2px #fcedd7;
+  border-left: 10px solid #FFC107;
+}
