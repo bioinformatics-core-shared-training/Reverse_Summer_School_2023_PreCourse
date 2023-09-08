@@ -8,13 +8,13 @@ date: "6th September 2023"
 output:
   html_document:
     number_sections: yes
-    css: boxes.css
+    css: style.css
     toc: yes
-    toc_depth: 2
+    toc_depth: 1
 ---
 
 
-# Installing R and RStudio {.tabset}
+# Installing R and RStudio {.tabset .tabset-fade .tabset-pills}
 
 **R** and **RStudio** are separate downloads and installations.
 
@@ -33,7 +33,7 @@ use the relevant instruction below.
 If you already have R and RStudio installed on your laptop, please make sure they
 are both up to date and update any packages that you already have installed.
 
-## Installation on Windows
+## Installation on Windows {-}
 
 ### Installing R {-}
 
@@ -48,7 +48,7 @@ are both up to date and update any packages that you already have installed.
 3. Double click the file to install it
 
 
-## Software Installation on Apple MacBook
+## Installation on Apple MacBook {-}
 
 ### Installing R {-}
 
@@ -94,7 +94,7 @@ Finally install RStudio:
 3. Double click the donwloaded file to install RStudio
 
 
-## Updating R and RStudio if they are already installed
+## Updating existing R and RStudio {-}
 
 If you already have R and RStudio installed, you should make sure that you are
 running the latest versions.

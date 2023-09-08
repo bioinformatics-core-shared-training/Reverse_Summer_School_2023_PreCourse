@@ -1,0 +1,22 @@
+h1 {font-size: 20px; font-weight: bold; margin-top: 50px;}
+h1.title {font-size: 38px; font-weight: bold; margin-bottom: 50px; text-align: center;}
+h2 {font-size: 18px; font-weight: bold;}
+h3 {font-size: 16px; font-weight: bold;}
+
+.nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+     background-color: #009CEE;
+ }
+
+.box {
+  padding: 1em 1em 1em 3em;
+  /* specify the image properties */
+    background-repeat: no-repeat;
+  background-position: 0.5em 1em;
+  background-size: 2em;
+  margin: 10px;
+  color: black;
+  background-color: #fef9f1;
+    box-shadow: 0 0 3px 2px #fcedd7;
+  border-left: 10px solid #FFC107;
+}
+
