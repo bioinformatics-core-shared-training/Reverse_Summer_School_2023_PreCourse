@@ -206,7 +206,7 @@ out whether to use CRAN or Bioconductor for each package.
 BiocManager::install(c("AnnotationDbi", "AnnotationHub", "circlize",
                        "clusterProfiler", "ComplexHeatmap", "DESeq2",
                        "enrichplot", "ensembldb", "gganimate", "ggdendro",
-                       "ggfortify", "ggrepel", "ggvenn", "msigdbr",
+                       "ggfortify", "ggrepel", "ggvenn", "janitor", "msigdbr",
                        "org.Mm.eg.db", "pathview", "tximport")) 
 ```
 
@@ -229,6 +229,7 @@ library(ggdendro)
 library(ggfortify)
 library(ggrepel)
 library(ggvenn)
+library(janitor)
 library(msigdbr)
 library(org.Mm.eg.db)
 library(pathview)
